@@ -1,4 +1,6 @@
 ﻿
+using MyFirstProject.exercicios;
+
 namespace MyFirstProject
 {
     class Program
@@ -39,6 +41,9 @@ namespace MyFirstProject
                     break;
                 case 6:
                     OOPExercicios.Exercicio2();
+                    break;
+                case 7:
+                    BankExercise.Bank();
                     break;
                 default:
                     Console.WriteLine("Valor invalido, desligando...");

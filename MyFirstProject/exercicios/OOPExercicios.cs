@@ -1,6 +1,6 @@
 using MyFirstProject.models;
 
-namespace MyFirstProject;
+namespace MyFirstProject.exercicios;
 
 public class OOPExercicios
 {
