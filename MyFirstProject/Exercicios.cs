@@ -32,11 +32,33 @@ public class Exercicios
                 Console.WriteLine("Valor invalido");
             }
         }
+
         Console.WriteLine("A soma dos valores é: " + Calculate(valueOne.Value, valueTwo.Value).ToString());
     }
 
     private static int Calculate(int num1, int num2)
     {
         return num1 + num2;
+    }
+
+    public static void Exercicio2()
+    {
+        int? number = null;
+        Console.WriteLine("Exercicio 2 - Identificar numeros negativos");
+
+        while (number == null)
+        {
+            Console.WriteLine("Digite o primeiro valor: ");
+            try
+            {
+                number = int.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Valor invalido");
+            }
+        }
+
+        Console.WriteLine(number > 0 ? "Numero nao negativo" : "Numero negativo");
     }
 }
