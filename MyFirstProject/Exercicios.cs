@@ -61,4 +61,22 @@ public class Exercicios
 
         Console.WriteLine(number > 0 ? "Numero nao negativo" : "Numero negativo");
     }
+
+    public static void Exercicio3()
+    {
+        string value = "2002";
+        Console.WriteLine("Exercicio 3 - Verificar senha");
+
+        while (true)
+        {
+            Console.WriteLine("Digite sua senha : ");
+            if (Console.ReadLine() == value)
+            {
+                Console.WriteLine("Senha verificada");
+                return;
+            }
+
+            Console.WriteLine("Senha incorreta");
+        }
+    }
 }
