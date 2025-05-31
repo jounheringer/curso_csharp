@@ -34,6 +34,12 @@ namespace MyFirstProject
                 case 4:
                     Exercicios.Exercicio4();
                     break;
+                case 5:
+                    OOPExercicios.Exercicio1();
+                    break;
+                case 6:
+                    OOPExercicios.Exercicio2();
+                    break;
                 default:
                     Console.WriteLine("Valor invalido, desligando...");
                     break;
