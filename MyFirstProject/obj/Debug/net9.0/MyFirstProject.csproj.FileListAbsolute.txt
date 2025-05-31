@@ -1,0 +1,14 @@
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/bin/Debug/net9.0/MyFirstProject
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/bin/Debug/net9.0/MyFirstProject.deps.json
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/bin/Debug/net9.0/MyFirstProject.runtimeconfig.json
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/bin/Debug/net9.0/MyFirstProject.dll
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/bin/Debug/net9.0/MyFirstProject.pdb
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfo.cs
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.dll
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/refint/MyFirstProject.dll
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
