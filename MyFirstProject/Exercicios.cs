@@ -79,4 +79,28 @@ public class Exercicios
             Console.WriteLine("Senha incorreta");
         }
     }
+
+    public static void Exercicio4()
+    {
+        int? number = null;
+        Console.WriteLine("Exercicio 4 - Imprimir um valor impar");
+        while (number == null)
+        {
+            Console.WriteLine("Digite o tamanho da lista: ");
+            try
+            {
+                number = Int32.Parse(Console.ReadLine());
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Valor invalido");
+            }
+        }
+
+        for (int i = 0; i < number; i++)
+        {
+            if (i % 2 == 1)
+                Console.WriteLine(i);
+        }
+    }
 }
