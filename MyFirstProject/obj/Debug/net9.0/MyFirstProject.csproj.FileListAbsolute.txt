@@ -12,3 +12,4 @@
 /Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
 /Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
 /Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
+/Users/joaovictorheringer/RiderProjects/MyFirstProject/MyFirstProject/obj/Debug/net9.0/MyFirstProject.sourcelink.json
